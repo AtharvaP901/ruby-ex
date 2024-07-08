@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift My Unnati RedHat Class  </h1>
+            <h1> WELCOME TO UNNATI BYPASS KUCL 2.2 </h1>
           </hgroup>
 
 
